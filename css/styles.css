@@ -140,7 +140,7 @@ p.small {
 	font-size: 11px !important;
 	text-transform: uppercase;
 	font-weight: 600;
-	color: #888;
+	color: #000;
 	letter-spacing: 1px;
 }
 p.lefted, .lefted p {
@@ -193,7 +193,7 @@ blockquote::before {
 }
 blockquote footer {
 	font-style: normal;
-	color: #888;
+	color: #000;
 	letter-spacing: 0;
 	font-weight: 400;
 	font-size: 13px;
@@ -360,7 +360,7 @@ h5 i, h4 i, h3 i, h2 i {
 }
 #main-nav a {
 	text-decoration: none;
-	color: #888;
+	color: #000;
 	font-size: 14px;
 	font-weight: 400;
 	position: relative;
@@ -386,7 +386,7 @@ h5 i, h4 i, h3 i, h2 i {
 	border-bottom: 2px solid #f0f0f0;
 }
 #main-nav > ul > li > .sub-nav > li > a {
-	font-size: 12px;
+	font-size: 14px;
 	letter-spacing: 0;
 	text-transform: none;
 	font-weight: 400;
@@ -440,8 +440,8 @@ h5 i, h4 i, h3 i, h2 i {
 }
 #bottom-header p {
 	padding-top: 20px;
-	color: #888;
-	font-size: 12px;
+	color: #000;
+	font-size: 14px;
 }
 /* End Main Nav
 --------------------------------------------------------------------------------------------------------*/
@@ -845,7 +845,7 @@ a:hover .teaser-content h3 {
 	border-radius: 0;
 	font-size: 11px;
 	font-weight: 600;
-	color: #2b2b2b;
+	color: #000000;
 	background: #fff;
 	border: 0;
 	width: auto;
@@ -1538,13 +1538,13 @@ footer {
 	font-size: 0;
 }
 footer p {
-	color: #888;
-	font-size: 12px;
+	color: #000;
+	font-size: 14px;
 	display: inline-block;
 	padding: 0 25px;
 }
 footer p a {
-	color: #888;
+	color: #000;
 }
 /* End Footer
 --------------------------------------------------------------------------------------------------------*/
