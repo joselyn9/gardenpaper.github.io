@@ -1364,6 +1364,7 @@ a.circled:hover i.fa {
 
 
 /* =10. Images
+in section img - added - height: auto - gaurav
 --------------------------------------------------------------------------------------------------------*/
 .images {
 	display: block;
@@ -1374,6 +1375,7 @@ article .images {
 }
 img {
 	width: 100%;
+	height:  auto;
 	display: block;
 	max-width: 100%;
 	z-index: 9;
